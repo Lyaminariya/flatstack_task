@@ -18,6 +18,3 @@ def look_and_tell(n):
                 count += 1
         str_ = temp
     return str_
-
-n = 5
-print(look_and_tell(n))
